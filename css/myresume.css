@@ -18,6 +18,7 @@ h1 .text-primary {
 	font-size: 3rem;
 	letter-spacing: -0.05rem;
 	text-transform: 3rem;
+	color: #c76f5f!important;
 }
 
 .graph_set {
@@ -28,5 +29,5 @@ h1 .text-primary {
     background-color: #c76f5f!important;background-image: url("../img/gray-floral.png");
 }
 h2 .mb-5 span{
-	color: #c76f5f!important
+	color: #c76f5f!important;
 } 
